@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Installed packages
+
+- npx create-react-app project-name
+- npm install react-bootstrap bootstrap
+- npm install react-router-dom@6
+- npm install styled-components
+- npm install axios (data(API) call)
+- npm install @reduxjs/toolkit react-redux
+  - if react version is lower than 18.1 then change react & react-dom version to 18.1.0 in package.json
+    and then enter npm install on terminal. After all these, re-try to install redux using above command
+- npm install react-query
+  - it is changed to 'npm install @tanstack/react-query'
