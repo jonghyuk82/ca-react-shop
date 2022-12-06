@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ca-react-shop/static/css/main.68629c25.css",
+    "main.js": "/ca-react-shop/static/js/main.6a2fbb41.js",
+    "static/js/595.c6aaeaa2.chunk.js": "/ca-react-shop/static/js/595.c6aaeaa2.chunk.js",
+    "static/js/970.d0d1777f.chunk.js": "/ca-react-shop/static/js/970.d0d1777f.chunk.js",
+    "static/js/787.23170c61.chunk.js": "/ca-react-shop/static/js/787.23170c61.chunk.js",
+    "static/media/bg.png": "/ca-react-shop/static/media/bg.616f307c169b743ff920.png",
+    "index.html": "/ca-react-shop/index.html",
+    "main.68629c25.css.map": "/ca-react-shop/static/css/main.68629c25.css.map",
+    "main.6a2fbb41.js.map": "/ca-react-shop/static/js/main.6a2fbb41.js.map",
+    "595.c6aaeaa2.chunk.js.map": "/ca-react-shop/static/js/595.c6aaeaa2.chunk.js.map",
+    "970.d0d1777f.chunk.js.map": "/ca-react-shop/static/js/970.d0d1777f.chunk.js.map",
+    "787.23170c61.chunk.js.map": "/ca-react-shop/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68629c25.css",
+    "static/js/main.6a2fbb41.js"
+  ]
+}
